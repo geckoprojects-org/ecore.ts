@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is deprecated and archived.**
+> It is no longer maintained.
+
 # EcoreTS
 
 A TypeScript implementation of EMF (Eclipse Modeling Framework) Ecore metamodel.
